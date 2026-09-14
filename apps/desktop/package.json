@@ -4,10 +4,10 @@
   "private": true,
   "version": "0.17.2",
   "description": "Native desktop shell for Missher Agent.",
-  "author": "Nous Research",
+  "author": "mulbache",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NousResearch/missher-agent.git"
+    "url": "git+https://github.com/mulbache/missher-agent.git"
   },
   "type": "module",
   "main": "dist/electron-main.mjs",
